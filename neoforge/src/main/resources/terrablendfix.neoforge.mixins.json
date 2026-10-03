@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "info.partonetrain.terrablendfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "LayeredNoiseUtilMixin",
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
